@@ -41,8 +41,4 @@ tqdm==4.66.1
 
 ## 示例
 
-运行`qt.py`:
-
-![image-20231030233315726](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231030233315726.png)
-
-![image-20231030233437784](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231030233437784.png)
+![example2](E:\code\python\LSTM\example2.png)![example1](E:\code\python\LSTM\example1.png)
