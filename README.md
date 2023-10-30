@@ -41,4 +41,8 @@ tqdm==4.66.1
 
 ## 示例
 
-![example2](E:\code\python\LSTM\example2.png)![example1](E:\code\python\LSTM\example1.png)
+![LSTM-/example1.png at main · hinayahh/LSTM- (github.com)](https://github.com/hinayahh/LSTM-/blob/main/example1.png)
+
+![LSTM-/example1.png at main · hinayahh/LSTM- (github.com)](https://github.com/hinayahh/LSTM-/blob/main/example2.png)
+
+![example1](E:\code\python\LSTM\example1.png)
